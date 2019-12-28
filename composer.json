@@ -1,0 +1,16 @@
+{
+    "name": "jonathan/jmartz-access-manager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jonathan-martz",
+            "email": "github@jmartz.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1|^7.2|^7.3",
+        "ext-json": "*",
+        "consolidation/robo": "^2.0.0"
+    }
+}
